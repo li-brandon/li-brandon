@@ -21,37 +21,8 @@
 </h2>
 
 <h3>
-  Work for Summer 2020
-</h3>
-
-<p>
-  - 👥 <b><a href="https://aywd-3be6b.web.app/" target="_blank">Admin Management React Web App </a>(public repo not available)</b></br>
-  - 💰 <b><a href="https://apps.apple.com/us/app/id1529671472" target="_blank">E-Commerce Ayeyarwady Cooking Oil React Native Shopping App </a>(public repo not available)</b></br>
-</p>
-
-<h3>
-  Projects at WashU
-</h3>
-
-<p>
-  - 🏀 <b><a href="https://washuvis.github.io/goat/" target="_blank">The Best Of Three Legends </a>- Ulitmate data-driven visualization tool
-for analyzing the greatness of Kobe Bryant, Michael Jordan, and Lebron James</b></br>
-  - 🍜 <b><a href="https://thecookbook-b1469.web.app/" target="_blank">TheCookBook </a>- Food recipe social media web app with mobile interfact</b></br>
-  - ❗ <b><a href="https://github.com/ptkpyitheim/Accio" target="_blank">Accio </a>- The Location-based Interest Groups App</b></br>
-  - 🐻 <b><a href="https://ptkpyitheim.github.io/BearFoundWeb/" target="_blank">BearFound </a>- Lost and Found app for WashU students</b></br>
-  - 🚩 <b><a href="https://ptkpyitheim.github.io/ctf-challenge/#/" target="_blank">Capture The Flag Challenge </a> - built for Web Dev students as the Head TA</b></br>
-  - 🚗 <b><a href="https://github.com/ptkpyitheim/wushare" target="_blank">WuShare </a>- Carpooling web app for WashU students</b></br>
-  - 📷 <b><a href="https://ptkpyitheim.github.io/Instagram-Clone/" target="_blank">Instagram Clone</a></b></br>
-</p>
-
-<h3>
   Hackathons
 </h3>
-
-<p>
-  - 🍊 <b><a href="https://github.com/ptkpyitheim/eHacks_Kumquat" target="_blank">Kumquat - eHacks </a></b></br>
-  - 💡 <b><a href="https://github.com/ptkpyitheim/Toor_PennAppsXX" target="_blank">Toor - PennAppsXX </a></b></br>
-</p>
 
 <p align="center">
    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=li-brandon&title_color=00FFB5&bg_color=273036&text_color=ffffff" />
