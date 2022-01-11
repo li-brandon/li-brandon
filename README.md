@@ -54,7 +54,7 @@ for analyzing the greatness of Kobe Bryant, Michael Jordan, and Lebron James</b>
 </p>
 
 <p align="center">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ptkpyitheim&title_color=00FFB5&bg_color=273036&text_color=ffffff" />
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=li-brandon&title_color=00FFB5&bg_color=273036&text_color=ffffff" />
 </p>
 
 <!--
