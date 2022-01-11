@@ -1,60 +1,73 @@
-
-<div align="center">
-<img width="100%" height = "250px" src="https://cdn.pixabay.com/photo/2018/01/14/23/12/nature-3082832_1280.jpg" alt="cover" />
-</div>
-
-<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
-<p align='center'>
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=li-brandon.li-brandon)
-
+<p align="center">
+  <img src="https://www.animatedimages.org/data/media/35/animated-eye-image-0012.gif" width="30px">
+  <img src="https://www.animatedimages.org/data/media/35/animated-eye-image-0012.gif" width="30px">
+  <img src="https://www.animatedimages.org/data/media/35/animated-eye-image-0012.gif" width="30px">
 </p>
-<div size='20px'> Hi! My name is Brandon. Thank You for taking the time to view my GitHub Profile :smile: 
-</div>
 
-<h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
+<h1 align="center">             
+  Hello there!
+</h1>
 
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<p align="center">
+   <b>You can also reach me at:</b> </br> </br>
+  <a href="http://pyitheimkyaw.com/" target="_blank"><img src="https://user-images.githubusercontent.com/36285777/92535850-ce658100-f1fd-11ea-9bf8-2513bedb82e8.png" width="30px"></a>
+   <a href="https://www.linkedin.com/in/ptkpyitheim/" target="_blank"><img src="https://user-images.githubusercontent.com/36285777/92535735-89d9e580-f1fd-11ea-9203-281cbda06827.png" width="30px"></a>
+  <a href="http://devpost.com/ptkpyitheim" target="_blank"><img src="https://user-images.githubusercontent.com/36285777/92536055-50ee4080-f1fe-11ea-822a-790ab1b8d5cf.png" width="30px"></a>
+  <a href="http://github.com/ptkpyitheim" target="_blank"><img src="https://user-images.githubusercontent.com/36285777/92536326-002b1780-f1ff-11ea-94ce-99fb9d20295f.png" width="30px"></a>
+</p>
 
+<h2>
+  Project Highlights
+</h2>
 
-- 🔭 I’m currently working on My Blog, Github Project
+<h3>
+  Work for Summer 2020
+</h3>
 
-- 🌱 I’m currently learning Data Science,AWS,Data Engineering 
+<p>
+  - 👥 <b><a href="https://aywd-3be6b.web.app/" target="_blank">Admin Management React Web App </a>(public repo not available)</b></br>
+  - 💰 <b><a href="https://apps.apple.com/us/app/id1529671472" target="_blank">E-Commerce Ayeyarwady Cooking Oil React Native Shopping App </a>(public repo not available)</b></br>
+</p>
 
-- 👯 I’m looking to collaborate on Projects,Tech Articles 
+<h3>
+  Projects at WashU
+</h3>
 
-- 💬 Talk to me about Python, JavaScript, Freelancing Opportunites, Open Source 
+<p>
+  - 🏀 <b><a href="https://washuvis.github.io/goat/" target="_blank">The Best Of Three Legends </a>- Ulitmate data-driven visualization tool
+for analyzing the greatness of Kobe Bryant, Michael Jordan, and Lebron James</b></br>
+  - 🍜 <b><a href="https://thecookbook-b1469.web.app/" target="_blank">TheCookBook </a>- Food recipe social media web app with mobile interfact</b></br>
+  - ❗ <b><a href="https://github.com/ptkpyitheim/Accio" target="_blank">Accio </a>- The Location-based Interest Groups App</b></br>
+  - 🐻 <b><a href="https://ptkpyitheim.github.io/BearFoundWeb/" target="_blank">BearFound </a>- Lost and Found app for WashU students</b></br>
+  - 🚩 <b><a href="https://ptkpyitheim.github.io/ctf-challenge/#/" target="_blank">Capture The Flag Challenge </a> - built for Web Dev students as the Head TA</b></br>
+  - 🚗 <b><a href="https://github.com/ptkpyitheim/wushare" target="_blank">WuShare </a>- Carpooling web app for WashU students</b></br>
+  - 📷 <b><a href="https://ptkpyitheim.github.io/Instagram-Clone/" target="_blank">Instagram Clone</a></b></br>
+</p>
 
-<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
-<a href= https://github.com/li-brandon?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
-<a href= https://github.com/li-brandon?tab=repositories&q=&type=&language=reactjs&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> </a>
-<a href= https://github.com/li-brandon?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
-<a href= https://github.com/li-brandon?tab=repositories&q=&type=&language=scikit&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/scikit.svg'> </a>
-<a href= https://github.com/li-brandon?tab=repositories&q=&type=&language=c&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg'> </a>
-<a href= https://github.com/li-brandon?tab=repositories&q=&type=&language=cpp&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg'> </a>
-<a href= https://github.com/li-brandon?tab=repositories&q=&type=&language=sqlite&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/sqlite.svg'> </a>
-<a href= https://github.com/li-brandon?tab=repositories&q=&type=&language=pytorch&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/pytorch.svg'> </a>
+<h3>
+  Hackathons
+</h3>
 
+<p>
+  - 🍊 <b><a href="https://github.com/ptkpyitheim/eHacks_Kumquat" target="_blank">Kumquat - eHacks </a></b></br>
+  - 💡 <b><a href="https://github.com/ptkpyitheim/Toor_PennAppsXX" target="_blank">Toor - PennAppsXX </a></b></br>
+</p>
 
-<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
-<a href = 'https://www.twitter.com/librandon0706'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
-<a href = 'https://www.github.com/li-brandon'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
+<p align="center">
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ptkpyitheim&title_color=00FFB5&bg_color=273036&text_color=ffffff" />
+</p>
 
+<!--
+**ptkpyitheim/ptkpyitheim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-<h2> Stuff I worked on last week  <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 70px> </h2>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=li_brandon"/>
-</a>
-<br> 
+Here are some ideas to get you started:
 
-<h2> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32px'> </h2>
-
-![Metrics](https://metrics.lecoq.io/li-brandon?template=terminal&base.header=0&base.activity=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&config.timezone=America%2FToronto)
-
-<h2> Some Programming Humor for you <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '32px'></h2>
-
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=default)
-
-
-<br>
-<footer align='center'>README made with help of <a href='https://github.com/rahulbanerjee26/githubProfileReadmeGenerator'>githubProfileReadmeGenerator</a> </footer>
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
