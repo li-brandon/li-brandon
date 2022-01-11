@@ -1,12 +1,4 @@
-<p align="center">
-  <img src="https://www.animatedimages.org/data/media/35/animated-eye-image-0012.gif" width="30px">
-  <img src="https://www.animatedimages.org/data/media/35/animated-eye-image-0012.gif" width="30px">
-  <img src="https://www.animatedimages.org/data/media/35/animated-eye-image-0012.gif" width="30px">
-</p>
-
-<h1 align="center">             
-  Hello there!
-</h1>
+<h1 align="center"> Hi, welcome to my GitHub page.</h1>
 
 <p align="center">
    <b>You can also reach me at:</b> </br> </br>
@@ -27,18 +19,3 @@
 <p align="center">
    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=li-brandon&title_color=00FFB5&bg_color=273036&text_color=ffffff" />
 </p>
-
-<!--
-**ptkpyitheim/ptkpyitheim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
