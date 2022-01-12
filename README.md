@@ -1,5 +1,3 @@
-<h1 align="center"> Welcome to my GitHub Page!</h1>
-
 <h2>Notable Projects</h2>
 
 <p align="center">
