@@ -1,4 +1,4 @@
-<h1>Hello! 👋</h1>
+<h1>Welcome! 👋</h1>
 <p>
    My name is Brandon Li and I'm a CS student at Washington University in St. Louis 🐻. I'm from Houston 🤠, living and studying in St. Louis.
    I'm primarily interested in mobile application development 📱 (particularly iOS) but am also learning full stack technologies. 
