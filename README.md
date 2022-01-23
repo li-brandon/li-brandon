@@ -20,9 +20,6 @@
 <a href="https://github.com/li-brandon/personal-website">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=li-brandon&repo=personal-website"/>
 </a>
-<a href="https://github.com/li-brandon/Casino-Brando">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=li-brandon&repo=Casino-Brando"/>
-</a>
 
 <!--<h2>Blog Posts 📝</h2>-->
 
