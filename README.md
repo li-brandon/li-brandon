@@ -17,7 +17,7 @@
 <a href="https://github.com/li-brandon/BearSurvival">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=li-brandon&repo=BearSurvival"/>
 </a>
-<a href="https://github.com/li-brandon/personal-website">
+<a href="https://github.com/li-brandon/li-brandon.github.io">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=li-brandon&repo=li-brandon.github.io"/>
 </a>
 
