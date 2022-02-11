@@ -18,7 +18,7 @@
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=li-brandon&repo=BearSurvival"/>
 </a>
 <a href="https://github.com/li-brandon/personal-website">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=li-brandon&repo=personal-website"/>
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=li-brandon&repo=li-brandon.github.io"/>
 </a>
 
 <!--<h2>Blog Posts 📝</h2>-->
