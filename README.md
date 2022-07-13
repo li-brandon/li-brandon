@@ -3,7 +3,7 @@
    My name is Brandon Li and I'm a Finance and Computer Science student at Washington University in St. Louis 🐻. I'm from Houston 🤠, living and studying in St. Louis.
    I'm primarily interested in mobile application development 📱 (particularly iOS) but am also learning full stack technologies. 
    
-   You can find me on Twitter, LinkedIn, or reach me at brandon.li@wustl.edu.
+   You can find me on Twitter, LinkedIn, or reach me at brandon.li@wustl.edu or librandon0706@gmail.com.
    
    <!--Check out my portfolio if you want to know more.-->
 </p>
