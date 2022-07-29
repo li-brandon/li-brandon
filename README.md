@@ -20,6 +20,9 @@
 <a href="https://github.com/li-brandon/li-brandon.github.io">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=li-brandon&repo=li-brandon.github.io"/>
 </a>
+<a href="https://github.com/li-brandon/alien-invasion">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=li-brandon&repo=alien-invasion"/>
+</a>
 
 <!--<h2>Blog Posts 📝</h2>-->
 
