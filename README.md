@@ -1,6 +1,8 @@
 <h1>Welcome! 👋</h1>
 <p>
-   My name is Brandon Li and I'm a Finance and Computer Science student at Washington University in St. Louis 🐻. I'm from Houston 🤠, living and studying in St. Louis.
+   My name is Brandon Li and I'm majoring in Finance + Computer Science and minoring in Human-Computer Interaction at Washington University in St. Louis 🐻. 
+   
+   I'm from Houston 🤠, living and studying in St. Louis.
    
    You can find me on Twitter, LinkedIn, or reach me at li.brandon@outlook.com.
    
