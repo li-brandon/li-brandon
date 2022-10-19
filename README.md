@@ -35,7 +35,7 @@
 
 <h2>Skills 💼</h2>
 <p>
-   <strong>Languages:</strong> Swift, Python, Java, HTML, CSS, JavaScript, C++, C#
+   <strong>Languages:</strong> JavaScript (React.js, Next.js, Node.js), Python, Swift, Java, HTML / CSS, C++, C#
    <br>
-   <strong>Other Technologies:</strong> Unity, SQL, AWS, React.JS, Node.JS, Bootstrap, Figma
+   <strong>Other Tools:</strong> Git, Firebase, Figma, MongoDB, SQL, Redis, AWS, Notion, Micronaut, Material UI
 </p>
