@@ -2,7 +2,7 @@
 <p>
    My name is Brandon Li and I'm a senior studying Finance, Computer Science, and Human-Computer Interaction at Washington University in St. Louis 🐻. 
    
-   You can find me on Twitter, LinkedIn, or reach me at li.brandon@outlook.com. Always happy to chat!
+   You can find me on Twitter, LinkedIn, or reach me at li.brandon@outlook.com. 
    
    <!--Check out my portfolio if you want to know more.-->
 </p>
