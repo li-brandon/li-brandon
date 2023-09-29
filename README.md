@@ -2,8 +2,7 @@
 <p>
    My name is Brandon Li and I'm a recent Finance and Computer Science graduate from Washington University in St. Louis 🐻. I'm currently working as an Associate Software Engineer at Fidelity Investments in Westlake, TX.
    
-   My main interests are in full-stack web development and mobile application development, particularly Swift / SwiftUI. I love to build scalable    
-   applications that have a broad, positive impact.
+   My main interests are in full-stack web development and mobile application development, particularly Swift / SwiftUI. I love to build scalable applications that have a broad, positive impact.
    
    You can find me on Twitter, LinkedIn, or reach me at li.brandon@outlook.com.
    
