@@ -1,6 +1,6 @@
 <h1>Welcome! 👋</h1>
 <p>
-   My name is Brandon Li and I'm a recent Finance and Computer Science graduate from Washington University in St. Louis 🐻. I'm currently working as an Associate Software Engineer at Fidelity Investments in Westlake, TX. I'm part of the OPEX Keystone team within Asset Management Technology.
+   My name is Brandon Li and I'm a recent Finance and Computer Science graduate from Washington University in St. Louis 🐻. I'm currently working as an Software Engineer at Fidelity Investments in Westlake, TX. I'm part of the OPEX Keystone team within Asset Management Technology.
    
    My main interests are in full-stack web development and mobile application development, particularly Swift / SwiftUI. I love to build scalable applications that have a broad, positive impact.
    
