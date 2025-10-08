@@ -6,7 +6,7 @@
    
    My main interests are in full-stack web development and mobile application development. I love to build scalable applications that have a broad, positive impact.
    
-   You can find me on Twitter, LinkedIn, or reach me at li.brandon@outlook.com.
+   You can find me on Twitter, LinkedIn, or reach me at librandon0706@gmail.com.
 
    <!--Check out my portfolio if you want to know more.-->
 </p>
