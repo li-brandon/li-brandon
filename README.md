@@ -4,7 +4,7 @@
 
 I'm currently working as an Software Engineer at Fidelity Investments in Westlake, TX. My work centers around reducing trading costs and increasing alpha capture for OPEX, an AI model-driven automated trading system.
 
-You can find me on Twitter, LinkedIn, or email me at librandon0706@gmail.com.
+You can find me on Twitter, LinkedIn, or email me at li.brandon@outlook.com.
 
    <!--Check out my portfolio if you want to know more.-->
 </p>
