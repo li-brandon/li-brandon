@@ -1,10 +1,8 @@
 <h1>Welcome! 👋</h1>
 <p>
-   My name is Brandon Li and I'm a recent Finance and Computer Science graduate from Washington University in St. Louis 🐻.
+My name is Brandon Li and I'm currently working as a Full Stack Engineer at Fidelity Investments based out of Westlake, TX.
 
-I'm currently working as an Software Engineer at Fidelity Investments in Westlake, TX. 
-
-My work centers around reducing trading costs and increasing alpha capture for OPEX, an AI model-driven automated trading system.
+I'm working within Fidelity Labs on the Fidelity Stock Transfer team. My work centers around improving the first cloud-based transfer agent platform integrated with Fidelity's suite of financial products.
 
 You can find me on Twitter, LinkedIn, or email me at li.brandon@outlook.com.
 
