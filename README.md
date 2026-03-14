@@ -1,6 +1,6 @@
 <h1>Welcome! 👋</h1>
 <p>
-My name is Brandon Li and I'm currently working as a Full Stack Engineer at Fidelity Investments based out of Westlake, TX.
+My name is Brandon Li and I'm currently working as a Full Stack Engineer at Fidelity Investments based out of Westlake, TX. I graduated from Washington University in St. Louis 🐻 in 2023 with a double major in Finance and Computer Science.
 
 I'm working within Fidelity Labs on the Fidelity Stock Transfer team. My work centers around improving the first cloud-based transfer agent platform integrated with Fidelity's suite of financial products.
 
