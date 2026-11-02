@@ -2,7 +2,7 @@
 
 I'm a **Full Stack Software Engineer** at **Fidelity Investments**, where I work on backend services, API development, and cloud-based financial technology.
 
-I graduated from **Washington University in St. Louis** in 2023 with a BSBA in Finance and Computer Science.
+I graduated from **Washington University in St. Louis** 🐻 in 2023 with a BSBA in Finance and Computer Science.
 
 ## 💼 Professional Experience
 
