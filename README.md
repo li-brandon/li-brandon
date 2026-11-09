@@ -6,7 +6,7 @@ I graduated from **Washington University in St. Louis** 🐻 in 2023 with a BSBA
 
 ## 💼 Professional Experience
 
-I'm currently part of **Fidelity Labs**, working on **[Fidelity Stock Transfer](https://fidelitystocktransfer.com/)**, a cloud-based transfer agent platform integrated with Fidelity's financial ecosystem.
+I'm currently part of **Fidelity Labs**, building **[Fidelity Stock Transfer](https://fidelitystocktransfer.com/)**, a cloud-based transfer agent platform integrated with Fidelity's financial ecosystem.
 
 Before I transferred to Fidelity Labs I was in Asset Management Technology working on OPEX, an AI model-driven automated trading system used to improve alpha capture.
 
