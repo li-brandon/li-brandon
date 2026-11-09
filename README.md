@@ -1,4 +1,4 @@
-# Hey, I'm Brandon! 👋
+# Hi, I'm Brandon! 👋
 
 I'm a **Full Stack Software Engineer** at **Fidelity Investments**, where I work on backend services, API development, and cloud-based financial technology.
 
